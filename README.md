@@ -1,6 +1,6 @@
 # Application UI Pantai Menganti
 
-Nama : mOH AUFAL KHOLQI<br>
+Nama : MOH AUFAL KHOLQI<br>
 Kelas : IK-2A <br>
 No Absen : 15 <br>
 
