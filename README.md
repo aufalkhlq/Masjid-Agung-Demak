@@ -1,4 +1,4 @@
-# Application UI Pantai Menganti
+# Application UI 
 
 Nama : MOH AUFAL KHOLQI<br>
 Kelas : IK-2A <br>
